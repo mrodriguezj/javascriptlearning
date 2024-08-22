@@ -9,7 +9,7 @@
 1. Elemento 1
 2. Elemento 2
 
-[Google](google.com)
+[Google](http://www.google.com)
 
 Esto es un ejemplo de código
 ```
