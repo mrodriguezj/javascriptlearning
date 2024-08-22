@@ -13,7 +13,18 @@
 
 [Google](http://www.google.com)
 
+
 Esto es un ejemplo de código
 ```
 console.log("Hola mundo");
 console.log("Yo soy otra línea de código");
+```
+
+# Git Básico
+## Comandos Esenciales
+- `git init`: Inicializa un repositorio.
+- `git add`: Agrega archivos al área de preparación.
+
+## Configuración
+- `git config --global user.name "Tu Nombre"`
+- `git config --global user.email "tu.email@example.com"`
