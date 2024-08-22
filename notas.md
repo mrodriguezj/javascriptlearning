@@ -12,4 +12,6 @@
 [Google](google.com)
 
 Esto es un ejemplo de código
-```console.log("Hola mundo");
+```
+console.log("Hola mundo");
+console.log("Yo soy otra línea de código");
