@@ -1,4 +1,6 @@
 # Esto es un encabezado
+## Esto es un encabezado
+### Esto es un encabezado
 
 **Esto es un texto en negritas**
 
