@@ -15,7 +15,7 @@
 
 
 Esto es un ejemplo de código
-```
+``` javascript
 console.log("Hola mundo");
 console.log("Yo soy otra línea de código");
 ```
