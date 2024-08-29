@@ -16,6 +16,12 @@
 14. despite 
 15. sleek 
 16. polished
+17. tweak 
+18. triggered 
+19. hovering 
+20. fired
+21. retrieve
+22. 
 
 ## Research
 > Separation of concerns
