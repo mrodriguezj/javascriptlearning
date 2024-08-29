@@ -18,4 +18,5 @@
 
 ## Research
 > Separation of concerns
+
 > Ruby-on-Rails
