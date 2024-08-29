@@ -14,7 +14,8 @@
 12. regardless 
 13. majority 
 14. despite 
-15. 
+15. sleek 
+16. polished
 
 ## Research
 > Separation of concerns
