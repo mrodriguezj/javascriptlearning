@@ -13,7 +13,9 @@
 11. profoundly
 12. regardless 
 13. majority 
-14.  
+14. despite 
+15. 
 
-
+## Research
+> Separation of concerns
 > Ruby-on-Rails
