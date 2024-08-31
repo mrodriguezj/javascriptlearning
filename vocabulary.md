@@ -27,3 +27,10 @@
 > Separation of concerns
 
 > Ruby-on-Rails
+
+## Etiquetas HTML
+
+1. em
+2. strong
+3. div
+
